@@ -1,1 +1,55 @@
-User Privilege List + Definition 
+User Privilege Full List + Definition 
+       CONFIRM_REPORT_WITH_ERRORS= 	 If tech is allowed to override and confirm 
+       SAVE_REPORT= 	 If staff user is allowed to save reports 
+       CONFIRM_REPORT_FOR_PHYSICIAN= 	 If non-physician user is allowed to confirm report 
+       CONFIRM_EVENT_FOR_PHYSICIAN= 	 If staff user is allowed to confirm event 
+       VALIDATE_REPORTS= 	 This helps when global validation is disabled. 
+       GROUP_TYPE_UPDATE_IGNORE_ERRORS= 	 If tech allowed to override update group events 
+       GROUP_TYPE_UPDATE= 	 If tech is allowed to update group type events 
+       SUPERVISOR_METRICS= 	 If tech is allowed see the metrics 
+       DEVICE_MGMT_DETAIL= 	 If tech is allowed see the metrics 
+       DEVICE_MGMT_FORCE_CHECKIN= 	 If tech is allowed see the metrics 
+       DEVICE_MGMT_ADVANCED_EDIT= 	 If tech is allowed see the metrics 
+       DEVICE_MGMT_ASSOCIATION= 	 If tech is allowed see the metrics 
+       DEVICE_MGMT_OPEN_ISSUE= 	 If tech is allowed see the metrics 
+       DEVICE_MGMT_RMA= 	 If tech is allowed see the metrics 
+       TECH_REVIEW_TRAINING_DATA= 	 If senior tech is allowed review training data (AI 
+       CSR_ENROLLMENTS_FILTERS= 	 CSR - Enrollment - Model and MTP filters 
+       TECH_BATCH_FAIR_EVENTS= 	 If a tech is allowed to batch p3 events 
+       TECH_BATCH_NON_FAIR_EVENTS= 	 If a tech is allowed to batch p1/p2 events 
+       PROCESS_REPORTS_OFFSHORE= 	 Process reports at offshore 
+       SUPERVISOR_REVIEW= 	 Supervisor -Reviews Tech Events and reports 
+       VIEW_EDIT_CLINIC_DEVICE_PAR_LEVLES= 	 View or Edit Clinic Device Par Levels 
+       GENERATE_AGED_DEVICES= 	 Aging Devices List - Account 
+       VIEW_EVENT_FULL_DISCLOSURE= 	 view full event disclosure 
+       AUTHORIZE_REPORT_COMMENTS= 	 Confirm Reports wtih Technician's Custom Comments 
+       VIEW_EDIT_EMR_DATA=	 View or Edit EMR Data 
+       REPOST_TO_EMR= 	 Repost Report to EMR 
+       CHANGE_ENROLLMENT_DEVICE= 	 Change enrollmnet device 
+       EDIT_EVENT_ONSET_OFFSET= 	 Edit event onset and offset 
+       CONFIRM_EVENT_WITH_ERRORS= 	 If tech is allowed to override and confirm 
+       DEVICE_MGMT_BULK_DEVICE_MGMT= 	 If csr is allowed to see bulk device management 
+       EVENT_QUEUE_SHOW_SPLIT_COUNTS= 	 ZRV-2590 show offshore/onsite split counts 
+       SHOW_ECG_INFO= 	 ZRV-2642 Allowed to see ecg id and sample number 
+       UNCONFIRM_REPORT =	 Tech unconfirm the report (confirmed by physician) 
+       CSR_REGENERATE_REPORT= 	 CSR regenerate the report (confirmed by physician) 
+       UNLOCK_REPORT_PHY_INTERPRET= 	 Unconfirm report for physician interpretation 
+       TECH_ACCESS_CA_Q= 	 Cali techs queue view 
+       CHANGE_MODALITY= 	 Enrollment modaltiy change 
+       ACCESS_HIDDEN_PRIMARY_INDICATORS= 	 Access hidden enrollment primary indicators 
+       GENERATE_ENROLLMENT_REPORTS= 	 Allow users to generate & download reports 
+       VIEW_USER_LOGIN_HISOTRY= 	 Access login history details 
+       GENERATE_AGED_DEVICES_PATIENT= 	 Aging Devices List - Patient 
+       CONFIRM_CALL_LOG_WITH_UNFAXED_CRITERIA_ERRORS= 	 tech can confirm call log with unfaxed criteria 
+       STAFF_SHOW_LEVEL_2_CLINIC_SETTING= 	 show level 2 clinic settings 
+       EXPEDITE_REPORT= 	 End Enrollment and Expedite Report 
+       EDIT_NOTIFICATION_CRITERIA= 	 Allows a user to edit notification criteria 
+       MOVE_DEVICES_TO_AND_FROM_DEVICE_ISSUE_CLINICS= 	 Move devices to and from device issue clinics 
+       CHANGE_EVENT_RHYTHM_TYPE_WHEN_REPORT_EXIST= 	 Change rhythm type when the report template exists 
+
+
+
+
+
+
+
